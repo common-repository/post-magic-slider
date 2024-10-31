@@ -1,0 +1,30 @@
+
+#imgs img{
+
+    	width:150px;
+    	height:150px;
+    	
+    }
+    .img_galle{
+    	
+    	margin-right:50px;
+    	margin-bottom:20px;
+    	float:right;
+    	position: relative;
+    }
+    .img_remove{
+    	   width: 25px !important;
+			  height: 25px !important;
+			  background: #ff0000;
+			  color: #ffffff;
+			  position: absolute;
+			  left: 0px;
+			  cursor: pointer;
+			  text-align: center;
+			  display: block;
+			  font-size: 15px;
+			  padding-top: 5px;
+			  font-weight: bold;
+		  	
+    }
+
